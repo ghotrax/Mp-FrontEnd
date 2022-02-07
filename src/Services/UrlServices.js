@@ -1,0 +1,1 @@
+export const RouteBase = 'http://localhost:8080'
